@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignments</string>
+    <string name="app_vibgyor">Vibgyor</string>
+    <string name="vibgyor" translatable="false">vibgyor</string>
+    <string name="Red">Red</string>
+    <string name="Orange">Orange</string>
+    <string name="Green">Green</string>
+    <string name="Blue">Blue</string>
+    <string name="Indigo">Indigo</string>
+    <string name="voulit">Voulit</string>
+    <string name="violet">Violet</string>
+    <string name="Yellow">yellow</string>
+</resources>
